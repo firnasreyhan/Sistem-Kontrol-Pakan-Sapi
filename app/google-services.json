@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823486622665",
+    "firebase_url": "https://sistem-kontrol-pakan-sapi-default-rtdb.firebaseio.com",
+    "project_id": "sistem-kontrol-pakan-sapi",
+    "storage_bucket": "sistem-kontrol-pakan-sapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823486622665:android:4909effa1150ef2e619618",
+        "android_client_info": {
+          "package_name": "com.android.sistemkontrolpakansapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823486622665-ep6cnv89n1u21tno0sle4snf75s5b4on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_AB0SDHyqOnmZx5VWFgkF0KmZKAcPuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823486622665-ep6cnv89n1u21tno0sle4snf75s5b4on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
